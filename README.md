@@ -3,7 +3,7 @@
 - 🔭 I like to train advanced deep neural nets on different imaging datasets
 - 💬 Ask me about Medical Imaging, Computer Vision, Image Retrieval..
 - 📫 Reach me at **ravikamble07@gmail.com**
-[linkedin]: https://linkedin.com/in/ravi-kamble-49842087
+- [linkedin]: https://linkedin.com/in/ravi-kamble-49842087
 
 <!--
 **Ravimk07/Ravimk07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
