@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Ravi Kamble, Lead Imaging Scientist at AIRA Matrix
 
-🔭 I like to train advanced deep neural nets on different imaging datasets
-💬 Ask me about Medical Imaging, Computer Vision, Image Retrieval..
-📫 Reach me at **ravikamble07@gmail.com**
+- 🔭 I like to train advanced deep neural nets on different imaging datasets
+- 💬 Ask me about Medical Imaging, Computer Vision, Image Retrieval..
+- 📫 Reach me at **ravikamble07@gmail.com**
 [linkedin]: https://linkedin.com/in/ravi-kamble-49842087
 
 <!--
